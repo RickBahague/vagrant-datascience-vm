@@ -53,12 +53,7 @@ vagrantfile:
                     auto: 'true'
                 owner: vagrant
                 group: vagrant
-            vflsf_PredictionIO:
-                source:  /opt/local/PredictionIO
-                target: /opt/local/PredictionIO
-                sync_type: nfs
-                owner: vagrant
-                group: vagrant
+
         usable_port_range:
             start: 10200
             stop: 10500
