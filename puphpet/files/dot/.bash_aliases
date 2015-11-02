@@ -1,2 +1,2 @@
 source ~/.bashrc
-alias ipython='ipython notebook --ip="*"'
+alias ipython='ipython notebook --ip="*" --no-browser'

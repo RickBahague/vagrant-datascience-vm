@@ -346,6 +346,7 @@ python:
         - pattern
         - dask
         - luigi
+        - notebook
 
     versions: {  }
 nodejs:
